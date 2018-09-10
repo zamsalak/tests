@@ -1,0 +1,9 @@
+﻿Atatürk Lisesi, Eskişehir, Devlet 
+Şehremini Lisesi, İstanbul, Devlet 
+İstinye Anadolu Lisesi, İstanbul, Devlet 
+Kadıköy Anadolu Lisesi, İstanbul, Devlet 
+Etimesgut Lisesi, Ankara, Özel 
+Murat Atılgan İlköğretim Okulu, Eskişehir, Özel
+Hakkı Evrim Lisesi, İzmir, Özel
+Buca Fatma Saydın Lisesi, İzmir, Devlet
+Süleyman Demirel Anadolu Lisesi, Ankara, Devlet
