@@ -1,9 +1,0 @@
-﻿Ali Serçe, 3614, Atatürk Lisesi
-Canan Kutlu, 2361, Şehremini Lisesi
-Güray Sönmez, 1456, İstinye Anadolu Lisesi
-Ayşe Er, 456, Kadıköy Anadolu Lisesi
-Murat Çelik, 8543, Etimesgut Lisesi
-Sibel Öztürk, 843, Murat Atılgan İlköğretim Okulu
-Yücel Gündüz, 8543, Hakkı Evrim Lisesi
-Fehmi Can, 8421, Buca Fatma Saydın Lisesi
-Demir Özlü, 875, Süleyman Demirel Anadolu Lisesi
