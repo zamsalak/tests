@@ -1,6 +1,6 @@
 import json
 
-jspn_data = """
+data = """
 [
   {
     "word": "menace",
@@ -15,7 +15,7 @@ jspn_data = """
 
 
 class Arm:
-    def __init__(self, json_data):
+    def __init__(self, data):
         self.json_data = json.loads(data)
         self.index = 0
         
