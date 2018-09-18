@@ -1,0 +1,10 @@
+İstanbul => Kadıköy, Beyoğlu, Şişli, Gaziosmanpaşa, Fatih, Adalar, Sultanbeyli
+Ankara => Sincan, Çankaya, Beypazarı, Elmadağ, Etimesgut, Polatlı
+Eskişehir => Çifeteler, Mihalıççık, Seyitgazi, İnönü, Beylikova, Alpu
+Çanakkale => Gelibolu, Biga, Çan, Lapseki, Gökçeada, Bozcaada, Bayramiç, Ezine
+Kocaeli => Kandıra, Darıca, Gebze, Gölcük, Karamürsel, Hereke
+İzmir => Karşıyaka, Buca, Çeşme, Torbalı, Urla, Bayraklı, Foça, Menemen, Selçuk
+Hakkari => Yüksekova, Çukurca, Şemdinli
+Trabzon => Sürmene, Akçaabat, Of, Vakfıkebir
+Rize => İyidere, İkizdere, Çayeli
+Zonguldak => Ereğli, Devrek, Kozlu, Çaycuma
